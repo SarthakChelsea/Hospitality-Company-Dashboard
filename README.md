@@ -22,7 +22,7 @@ The dashboard is designed to offer a comprehensive view of the company's hotel d
 
 ## 3. Data Source
 
-The data used in this Power BI dashboard is sourced from the Codebasics, and it covers the period from May 2022 to July 2022. The dataset includes information about each owned hotel's performance, including revenue, occupancy rates, and other relevant hospitality industry metrics.
+The data used in this Power BI dashboard is sourced from  the Codebasics hackathon Challenge, and it covers the period from May 2022 to July 2022. The dataset includes information about each owned hotel's performance, including revenue, occupancy rates, and other relevant hospitality industry metrics.
 
 ## 4. Parameters
 
